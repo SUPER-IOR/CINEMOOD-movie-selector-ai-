@@ -1,0 +1,9 @@
+{
+  "name": "CineMood",
+  "description": "An intuitive film expert that curates cinematic recommendations based on your emotional landscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI_RECOGNITION",
+    "NATURAL_LANGUAGE_PROCESSING"
+  ]
+}
